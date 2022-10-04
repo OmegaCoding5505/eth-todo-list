@@ -1,0 +1,4 @@
+e.indexOf is not a function:
+"https://stackoverflow.com/questions/38871753/uncaught-typeerror-a-indexof-is-not-a-function-error-when-opening-new-foundat"
+
+https://github.com/dappuniversity/eth-todo-list/issues/19
